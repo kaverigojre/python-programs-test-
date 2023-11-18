@@ -9,3 +9,6 @@ class Calculator:
         return a * b
     def divide(self, a, b):
         return a / b
+    def square_root(self, x):
+        return math.sqrt(x)
+
