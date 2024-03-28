@@ -1,5 +1,5 @@
-# git_assignment_HeroVired
-git_assignment_HeroVired
+#Python practice:
+
 Marking Scheme & Submission Guideline: Create a text file and add your GitHub repository link (the name of the GitHub repository should be: ‘git_assignment_HeroVired’ and it should be a private repository) into it and upload that file in the submission section in Vlearn.
 
 a. Each question is mandatory to solve.
